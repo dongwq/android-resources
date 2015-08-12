@@ -1,6 +1,7 @@
-= android-resources
+= resources
 
-== libs
+== Android
+=== libs
 
 https://github.com/ReactiveX/RxAndroid
 ----
@@ -17,3 +18,7 @@ compile('com.mikepenz:actionitembadge:3.1.0@aar') {
 https://github.com/mikepenz/Android-Iconics
 
 https://github.com/zzz40500/AndroidSweetSheet
+
+== Java
+
+https://github.com/jenzz/Java-PojoBuilder
